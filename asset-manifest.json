@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Heat-Content-web/static/js/main.40fa848c.js",
-    "index.html": "/Heat-Content-web/index.html",
-    "main.40fa848c.js.map": "/Heat-Content-web/static/js/main.40fa848c.js.map"
+    "main.js": "/static/js/main.6b55847c.js",
+    "index.html": "/index.html",
+    "main.6b55847c.js.map": "/static/js/main.6b55847c.js.map"
   },
   "entrypoints": [
-    "static/js/main.40fa848c.js"
+    "static/js/main.6b55847c.js"
   ]
 }
