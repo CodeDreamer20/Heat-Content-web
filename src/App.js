@@ -11,11 +11,11 @@ function App() {
         <Router>
             <div>
                 <nav className="bg-gray-800 p-4">
-                    <div className="container mc-auto flex justify-between">
-                        <a href="/" className="text-white font-bold">Heat🔥Content</a>
+                    <div className="container mx-auto flex justify-between">
+                        <a href="#/" className="text-white font-bold">Heat🔥Content</a>
                         <div className="space-x-4">
-                            <a href="/terms" className="text-white">Terms</a>
-                            <a href="/privacy" className="text-white">Privacy</a>
+                            <a href="#/terms" className="text-white">Terms</a>
+                            <a href="#/privacy" className="text-white">Privacy</a>
                         </div>
                     </div>
                 </nav>
